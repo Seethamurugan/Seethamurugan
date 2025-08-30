@@ -1,6 +1,6 @@
-<h1 align="left">👋 I'm Seetha</h1>
-
----
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=36&pause=1000&color=000080&width=600&lines=I'm+Seetha" alt="Typing SVG" />
+</h1>
 
 A pre-final year Student at **Manakula Vinayagar Institute of Technology**.  
 I am a dedicated and innovative learner, passionate about leveraging technology to create impactful solutions. I enjoy solving challenges and continuously improving my skills to contribute effectively in any project.  
