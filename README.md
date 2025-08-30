@@ -11,7 +11,7 @@ I am a dedicated and innovative learner, passionate about leveraging technology 
 
 **Languages & Markup:** HTML, CSS, JavaScript  
 **Databases:** MySQL  
-**Tools & Platforms:** VSCode, GitHub, Postman, Figma  
+**Tools & Platforms:** VSCode, GitHub
 **Other Skills:** Problem-solving, Project Collaboration, UI/UX Basics  
 
 ---
