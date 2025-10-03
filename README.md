@@ -19,6 +19,8 @@ Projects
 
 **Smart Campus Automation using Motion Sensor (Hardware)** – Automated system for campus utilities  
 
+**[Personal AI chat Assistant](https://github.com/Seethamurugan/My_ai_assistant.git)** - Developed AI chatbot assistant using flask in python.
+
 ---
 
 Current Focus
